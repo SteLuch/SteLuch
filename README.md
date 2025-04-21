@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SteLuch
 - 👀 I’m interested in expand my horizons to be a full stack engineer 
-- 🌱 I’m currently learning the foundatiion of web development
+- 🌱 I’m currently learning the foundations of web development
 - 💞️ I’m looking to collaborate on new fun projects
 - 📫 How to reach me: stellalafbarbosa@gmail.com
 - 😄 Pronouns: she/her
